@@ -14,11 +14,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94740203415'] //ur owner number
-global.ownername = "Drak Suadow" //ur owner name
-global.ytname = "YT: SHadow Yt" //ur yt chanel name
-global.socialm = "GitHub: Mr-Katussa" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.owner = ['https://wa.me/c/94740203415'] //ur owner number
+global.ownername = "DRAK SHADOW" //ur owner name
+global.ytname = "YT: https://youtube.com/@musicparadise5738 Yt" //ur yt chanel name
+global.socialm = "https://github.com/shashikabot/Drak-Shadow-Whatsapp-Bot" //ur github or insta name
+global.location = "Sri Lanka, Colombo, Kurunagala" //ur location
 
 //bot bomdy 
 global.ownernomer = "94740203415" //ur number
