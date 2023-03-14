@@ -15,18 +15,18 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['https://wa.me/c/94740203415'] //ur owner number
-global.ownername = "DRAK SHADOW" //ur owner name
-global.ytname = "YT: https://youtube.com/@musicparadise5738 Yt" //ur yt chanel name
+global.ownername = "Drak Shadow" //ur owner name
+global.ytname = "YT: Music Paradise" //ur yt chanel name
 global.socialm = "https://github.com/shashikabot/Drak-Shadow-Whatsapp-Bot" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kurunagala" //ur location
 
 //bot bomdy 
 global.ownernomer = "94740203415" //ur number
 global.premium = ['94740203415'] //ur premium number
-global.botname = 'Mr.Hansamala / Mr.Thilina' //ur bot name
-global.themeemoji = "♻️" //ur theme emoji
+global.botname = 'Hansamala & Thilina' //ur bot name
+global.themeemoji = "♻️🎋" //ur theme emoji
 global.packname = "Sticker By Drak Shadow" //ur sticker watermark packname
-global.author = "Drak Shadow" //ur sticker watermark author
+global.author = "Hansamala & Thilina" //ur sticker watermark author
 global.wm = "Drak Shadow BOT INC" //ur watermark
 
 // Other
@@ -51,10 +51,10 @@ global.mess = {
 }
 
 //media target
-global.thum = fs.readFileSync("https://i.ibb.co/rsKznCW/Picsart-23-03-14-23-42-15-135.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("https://i.ibb.co/rsKznCW/Picsart-23-03-14-23-42-15-135.jpg") //ur logo pic
-global.err4r = fs.readFileSync("https://i.ibb.co/rsKznCW/Picsart-23-03-14-23-42-15-135.jpg") //ur error pic
-global.thumb = fs.readFileSync("https://i.ibb.co/rsKznCW/Picsart-23-03-14-23-42-15-135.jpg")") //ur thumb pic
+global.thum = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
