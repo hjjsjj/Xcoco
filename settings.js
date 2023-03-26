@@ -23,10 +23,10 @@ global.location = "Sri Lanka, Colombo, Kurunagala" //ur location
 //bot bomdy 
 global.ownernomer = "94740203415" //ur number
 global.premium = ['94740203415'] //ur premium number
-global.botname = 'Hansamala & Thilina' //ur bot name
+global.botname = 'Mr.Hansamala & Mr.Kaveen & Mr.Thilina' //ur bot name
 global.themeemoji = "♻️🎋" //ur theme emoji
-global.packname = "Sticker By Drak Shadow" //ur sticker watermark packname
-global.author = "Hansamala & Thilina" //ur sticker watermark author
+global.packname = "Sticker By Drak Shadow Md" //ur sticker watermark packname
+global.author = "Mr.Hansamala & Mr.Kaveen & Mr.Thilina" //ur sticker watermark author
 global.wm = "Drak Shadow BOT INC" //ur watermark
 
 // Other
